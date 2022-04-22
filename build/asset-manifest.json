@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1359096b.chunk.css",
+    "main.js": "/static/js/main.f45f919d.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c979558c.js",
+    "static/js/2.460489f6.chunk.js": "/static/js/2.460489f6.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.c5ac3e8391f4b618ad9132be11a13eef.js": "/precache-manifest.c5ac3e8391f4b618ad9132be11a13eef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.460489f6.chunk.js.LICENSE.txt": "/static/js/2.460489f6.chunk.js.LICENSE.txt",
+    "static/media/CodingResume.pdf": "/static/media/CodingResume.7483cdb6.pdf",
+    "static/media/ExpressionsLanding.png": "/static/media/ExpressionsLanding.45ec8ce0.png",
+    "static/media/LandingPageImage.png": "/static/media/LandingPageImage.a18bbcd5.png",
+    "static/media/React.png": "/static/media/React.14c89a41.png",
+    "static/media/Sass.png": "/static/media/Sass.f87139c4.png",
+    "static/media/adobe.svg": "/static/media/adobe.b58016c5.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.71e42b5a.svg",
+    "static/media/bulma-logo.png": "/static/media/bulma-logo.6bf9b4da.png",
+    "static/media/css3.svg": "/static/media/css3.d3ad67fa.svg",
+    "static/media/express.svg": "/static/media/express.53051603.svg",
+    "static/media/html5.svg": "/static/media/html5.24845c5c.svg",
+    "static/media/jQuery.svg": "/static/media/jQuery.6ff17bd2.svg",
+    "static/media/king239.JPG": "/static/media/king239.bbcd4fee.JPG",
+    "static/media/landing area.jpg": "/static/media/landing area.07402800.jpg",
+    "static/media/mongodb.svg": "/static/media/mongodb.2aa7f7b5.svg",
+    "static/media/mysql.svg": "/static/media/mysql.dd2a5a35.svg",
+    "static/media/nodeJS.svg": "/static/media/nodeJS.f434bfbb.svg",
+    "static/media/plannerLanding.png": "/static/media/plannerLanding.bdad1321.png",
+    "static/media/searchPage.jpg": "/static/media/searchPage.9ad4e256.jpg",
+    "static/media/someBurgersEaten.png": "/static/media/someBurgersEaten.cfab87fa.png",
+    "static/media/vanillaJS.svg": "/static/media/vanillaJS.87711407.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c979558c.js",
+    "static/js/2.460489f6.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.f45f919d.chunk.js"
+  ]
+}
