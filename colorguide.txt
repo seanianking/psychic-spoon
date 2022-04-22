@@ -1,0 +1,7 @@
+$primary: $gold;
+$info: $brown;
+$success: $navy;
+$warning: $gray;
+$danger: $red;
+$light: $off-white;
+$link: $purple
